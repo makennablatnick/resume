@@ -12,9 +12,7 @@
         - Independent Swim Instructor with Sunsational Swim School 
         - Lifeguard/ Swim Instructor at SafeSplash Swim School
 
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNy5R4LIYWpHf_R_VBjQx-dAKDKLtRu5Ei0w&s](https://github.com/img-paste-devs/img-paste.vim)
-
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNy5R4LIYWpHf_R_VBjQx-dAKDKLtRu5Ei0w&s)
 
 ##   Education:
 
