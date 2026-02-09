@@ -12,9 +12,19 @@
         - Independent Swim Instructor with Sunsational Swim School 
         - Lifeguard/ Swim Instructor at SafeSplash Swim School
 
-   https://www.istockphoto.com/photos/funny-animal-reaction
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNy5R4LIYWpHf_R_VBjQx-dAKDKLtRu5Ei0w&s](https://github.com/img-paste-devs/img-paste.vim)
+
+
 
 ##   Education:
 
-       B.S in Geophysical Engineering at [Colorado School of Mines](https://www.mines.edu/)   
+       B.S in Geophysical Engineering at Colorado School of Mines
+
+##   Links:
+
+!      [Linkedin](www.linkedin.com/in/makennablatnick)
+
+
+
+  
     
